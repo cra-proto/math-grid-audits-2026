@@ -1,6 +1,18 @@
 [
   {
+    "origin": "https://www.canada.ca/en.html",
+    "destination": "/math-grid-audits-2026/en.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html",
     "destination": "/math-grid-audits-2026/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes.html",
+    "destination": "/math-grid-audits-2026/en/services/taxes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account/adjust-a-return.html",
+    "destination": "/math-grid-audits-2026/en/revenue-agency/services/e-services/digital-services-businesses/business-account/adjust-a-return.html"
   }
 ]
