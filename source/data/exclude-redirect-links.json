@@ -1,10 +1,14 @@
 [
   {
-    "origin": "https://www.canada.ca/en.html",
-    "destination": "/math-grid-audits-2026/en.html"
-  },
-  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html",
     "destination": "/math-grid-audits-2026/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html",
+    "destination": "/math-grid-audits-2026/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/benefits-allowances-chart.html",
+    "destination": "/math-grid-audits-2026/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/benefits-allowances-chart.html"
   }
 ]
