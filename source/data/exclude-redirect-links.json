@@ -10,5 +10,17 @@
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/benefits-allowances-chart.html",
     "destination": "/math-grid-audits-2026/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/benefits-allowances-chart.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/t4012/guide-t2-declaration-revenus-societes-chapitre-2-page-2-declaration-t2.html",
+    "destination": "/math-grid-audits-2026/fr/agence-revenu/services/formulaires-publications/publications/t4012/guide-t2-declaration-revenus-societes-chapitre-2-page-2-declaration-t2.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/t4012/guide-t2-declaration-revenus-societes-chapitre-3-page-3-declaration-t2.html",
+    "destination": "/math-grid-audits-2026/fr/agence-revenu/services/formulaires-publications/publications/t4012/guide-t2-declaration-revenus-societes-chapitre-3-page-3-declaration-t2.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/avantages-allocations/tableau-avantages-allocations.html",
+    "destination": "/math-grid-audits-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/avantages-allocations/tableau-avantages-allocations.html"
   }
 ]
