@@ -22,5 +22,13 @@
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/avantages-allocations/tableau-avantages-allocations.html",
     "destination": "/math-grid-audits-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/avantages-allocations/tableau-avantages-allocations.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/benefits-allowances-chart-live.html",
+    "destination": "/math-grid-audits-2026/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/benefits-allowances-chart-live.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/avantages-allocations/tableau-avantages-allocations-bak.html",
+    "destination": "/math-grid-audits-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/avantages-allocations/tableau-avantages-allocations-bak.html"
   }
 ]
